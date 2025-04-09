@@ -49,4 +49,5 @@ iframe, h1, #contador, #foto {
   box-shadow: 3 px solid red;
   width: auto;
   border: auto;
+  padding: 20px;
 }
